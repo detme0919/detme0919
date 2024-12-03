@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi there👋,I'm detme0919
 
+Welcome!:😋 
+
+- 🌱 Currently a high school student!
+- 🔭 Currently learning CTF related knowledge.
+- 📫 How to contact me:detme0919@outlook.com
+
+![](https://github-readme-stats.vercel.app/api?username=detme0919&show_icons=true&theme=transparent) 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=detme0919&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **detme0919/detme0919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
